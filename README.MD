@@ -2,7 +2,7 @@
 ## Projet php en groupe  : IRALOUR Claire, DE FREITAS Flavio, MEGY Ilyana.
 
 
-BookClub est votre bibliothèque virtuelle, vous pouvez trouver des livres que vous pourrez renseigner dans votre propre librairie comme livre lu, à lire ou en cours de lecture.
+BookClub est une bibliothèque virtuelle, vous pouvez trouver des livres que vous pourrez renseigner dans votre propre librairie comme livre lu, à lire ou en cours de lecture.
 Vous pouvez laisser un commentaire ou une note sur un livre qu'il vous ait plu ou non, également vous pourrez interagir avec les autres lecteurs sur le forum du site.
 
 Les langages utilisés pour développer ce site sont : HTML5, CSS3, JS et PHP.
